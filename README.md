@@ -11,7 +11,7 @@
 
 ## Course Overview
 
-This two-day course builds on the SQL Server 2025 query analysis skills taught in 65317A and focuses on real-world troubleshooting techniques. Students will learn to tune and optimize queries using **SQL Server Management Studio (SSMS) 22** and other advanced diagnostic tools on **SQL Server 2025**.
+This 2-day course builds on the SQL Server 2025 query analysis skills taught in 65317A and focuses on real-world troubleshooting techniques. Students will be taught to tune and optimize queries using native SQL Server features, SSMS 22 and other tools for SQL Server 2025.
 
 ### At Course Completion
 
