@@ -5,7 +5,7 @@
 * **Course Number:** 65318A
 * **Duration:** 2 Days (6 Modules)
 * **Audience Level:** Advanced
-* **Format:** Instructor-Led / Self-Paced
+* **Format:** Instructor-Led / Bootcamp
 
 ---
 
