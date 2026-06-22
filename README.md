@@ -1,4 +1,5 @@
 # Course 65318A: Advanced SQL Server Performance Tuning
+https://www.softwaretutorialservices.com/course/65318A
 
 ## Course Metadata
 
