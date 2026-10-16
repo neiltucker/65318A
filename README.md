@@ -15,7 +15,7 @@
 
 This 2-day course builds on the SQL Server 2025 query analysis skills taught in 65317A and focuses on real-world troubleshooting techniques. Students will be taught to tune and optimize queries using native SQL Server features, SSMS 22 and other tools for SQL Server 2025.
 
-> **Modern AI-Powered Learning:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, explore performance diagnostics and index tuning trade-offs interactively, and receive guided troubleshooting assistance during complex lab scenarios.
+> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, explore performance diagnostics and index tuning trade-offs interactively, and receive guided troubleshooting assistance during complex lab scenarios.
 
 ### At Course Completion
 
